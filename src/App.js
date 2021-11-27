@@ -1,6 +1,6 @@
 import "./App.css";
-import FullName from "./component/profile/FullName";
-import ProfilePhoto from "./component/profile/ProfilePhoto";
+import FullName from "./Component/Profile/FullName";
+import ProfilePhoto from "./Component/Profile/ProfilePhoto";
 import Address from "./Component/Profile/Address";
 
 function App() {
